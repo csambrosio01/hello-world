@@ -1,4 +1,4 @@
 # hello-world
-Testing git commands /n
-/n
+Testing git commands \n
+\n
 Caio Ambrosio
